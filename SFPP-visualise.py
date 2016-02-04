@@ -1,12 +1,9 @@
 import random
 import pylab
-import math
-import numpy as np
-import time
-        
 
 
-file_name = './simulation_results_50kx100k-uniform'    # File to get the data from
+
+file_name = 'results_50kx100k-uniform'    # File to get the data from
 
 def CDF(seq):    # Computing the tail distribution (1 - cummulative distribution function) of the sorted sample
     n = len(seq)
