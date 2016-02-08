@@ -1,6 +1,6 @@
 import random
 import pylab
-
+import math
 
 
 file_name = 'results_50kx100k-uniform'    # File to get the data from

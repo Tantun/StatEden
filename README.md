@@ -10,7 +10,7 @@ This simulates and visualizes certain statistics for the origin-rooted tree in t
 * Using gcc compile SFPP.c with the -lm option.
 
 ## Dependencies:
-* Python 2.x; Pylab (all for plotting)
+* Python 2.7; Pylab (all for plotting)
 
 
 ## Authors:
